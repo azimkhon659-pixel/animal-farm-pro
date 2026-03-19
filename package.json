@@ -1,0 +1,1 @@
+{"name": "animal-farm-pro","version": "1.0.0","description": "A Node.js project for Animal Farm","main": "index.js","scripts": {"test": "echo 'Error: no test specified' && exit 1"},"keywords": [],"author": "azimkhon659-pixel","license": "ISC"}
